@@ -34,7 +34,6 @@ type person struct { // "person" est plus descriptif
     name string
 }
 ```
-
 ## Fonctions
 - Les fonctions doivent être courtes et faire une seule chose.
 - Les noms de fonctions doivent être significatifs et refléter leur rôle dans le programme.
