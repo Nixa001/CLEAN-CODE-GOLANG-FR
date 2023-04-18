@@ -240,3 +240,22 @@ func calculateAverage(numbers []int) float64 {
 ```
 ## Conclusion
 En suivant ces principes du Clean Code, nous pouvons écrire des programmes Go plus propres, plus lisibles et plus faciles à comprendre et à maintenir. Utilisez ces exemples pour vous guider dans votre propre code et améliorez la qualité de vos programmes.
+
+
+## Authors
+
+- [@Nixa001](https://github.com/Nixa001)
+
+
+```
+ _   _   _                                     $
+| \ | | (_)                  ___     ___    _  $
+|  \| |  _  __  __   __ _   / _ \   / _ \  / | $
+| . ` | | | \ \/ /  / _` | | | | | | | | | | | $
+| |\  | | |  >  <  | (_| | | |_| | | |_| | | | $
+|_| \_| |_| /_/\_\  \__,_|  \___/   \___/  |_| $
+                                               $
+                                               $
+```
+![Logo](https://go.dev/images/go-logo-white.svg)
+
